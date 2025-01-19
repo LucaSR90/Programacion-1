@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\bin\Debug\net8.0\Tarea-1.exe
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\bin\Debug\net8.0\Tarea-1.deps.json
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\bin\Debug\net8.0\Tarea-1.runtimeconfig.json
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\bin\Debug\net8.0\Tarea-1.dll
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\bin\Debug\net8.0\Tarea-1.pdb
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.AssemblyInfo.cs
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.dll
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\refint\Tarea-1.dll
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.pdb
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\Tarea-1.genruntimeconfig.cache
+C:\Users\lucas\Documents\Universidad\Programacion 1\Tarea-1\Tarea-1\obj\Debug\net8.0\ref\Tarea-1.dll
